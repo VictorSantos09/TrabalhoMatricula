@@ -1,0 +1,30 @@
+I:\TrabalhoMatricula\TrabalhoMatricula\bin\Debug\net6.0\TrabalhoMatricula.exe
+I:\TrabalhoMatricula\TrabalhoMatricula\bin\Debug\net6.0\TrabalhoMatricula.deps.json
+I:\TrabalhoMatricula\TrabalhoMatricula\bin\Debug\net6.0\TrabalhoMatricula.runtimeconfig.json
+I:\TrabalhoMatricula\TrabalhoMatricula\bin\Debug\net6.0\TrabalhoMatricula.dll
+I:\TrabalhoMatricula\TrabalhoMatricula\bin\Debug\net6.0\TrabalhoMatricula.pdb
+I:\TrabalhoMatricula\TrabalhoMatricula\obj\Debug\net6.0\TrabalhoMatricula.csproj.AssemblyReference.cache
+I:\TrabalhoMatricula\TrabalhoMatricula\obj\Debug\net6.0\TrabalhoMatricula.GeneratedMSBuildEditorConfig.editorconfig
+I:\TrabalhoMatricula\TrabalhoMatricula\obj\Debug\net6.0\TrabalhoMatricula.AssemblyInfoInputs.cache
+I:\TrabalhoMatricula\TrabalhoMatricula\obj\Debug\net6.0\TrabalhoMatricula.AssemblyInfo.cs
+I:\TrabalhoMatricula\TrabalhoMatricula\obj\Debug\net6.0\TrabalhoMatricula.csproj.CoreCompileInputs.cache
+I:\TrabalhoMatricula\TrabalhoMatricula\obj\Debug\net6.0\TrabalhoMatricula.dll
+I:\TrabalhoMatricula\TrabalhoMatricula\obj\Debug\net6.0\refint\TrabalhoMatricula.dll
+I:\TrabalhoMatricula\TrabalhoMatricula\obj\Debug\net6.0\TrabalhoMatricula.pdb
+I:\TrabalhoMatricula\TrabalhoMatricula\obj\Debug\net6.0\TrabalhoMatricula.genruntimeconfig.cache
+I:\TrabalhoMatricula\TrabalhoMatricula\obj\Debug\net6.0\ref\TrabalhoMatricula.dll
+G:\My Drive\Senac\Trabalhos\TrabalhoMatricula\TrabalhoMatricula\bin\Debug\net6.0\TrabalhoMatricula.exe
+G:\My Drive\Senac\Trabalhos\TrabalhoMatricula\TrabalhoMatricula\bin\Debug\net6.0\TrabalhoMatricula.deps.json
+G:\My Drive\Senac\Trabalhos\TrabalhoMatricula\TrabalhoMatricula\bin\Debug\net6.0\TrabalhoMatricula.runtimeconfig.json
+G:\My Drive\Senac\Trabalhos\TrabalhoMatricula\TrabalhoMatricula\bin\Debug\net6.0\TrabalhoMatricula.dll
+G:\My Drive\Senac\Trabalhos\TrabalhoMatricula\TrabalhoMatricula\bin\Debug\net6.0\TrabalhoMatricula.pdb
+G:\My Drive\Senac\Trabalhos\TrabalhoMatricula\TrabalhoMatricula\obj\Debug\net6.0\TrabalhoMatricula.csproj.AssemblyReference.cache
+G:\My Drive\Senac\Trabalhos\TrabalhoMatricula\TrabalhoMatricula\obj\Debug\net6.0\TrabalhoMatricula.GeneratedMSBuildEditorConfig.editorconfig
+G:\My Drive\Senac\Trabalhos\TrabalhoMatricula\TrabalhoMatricula\obj\Debug\net6.0\TrabalhoMatricula.AssemblyInfoInputs.cache
+G:\My Drive\Senac\Trabalhos\TrabalhoMatricula\TrabalhoMatricula\obj\Debug\net6.0\TrabalhoMatricula.AssemblyInfo.cs
+G:\My Drive\Senac\Trabalhos\TrabalhoMatricula\TrabalhoMatricula\obj\Debug\net6.0\TrabalhoMatricula.csproj.CoreCompileInputs.cache
+G:\My Drive\Senac\Trabalhos\TrabalhoMatricula\TrabalhoMatricula\obj\Debug\net6.0\TrabalhoMatricula.dll
+G:\My Drive\Senac\Trabalhos\TrabalhoMatricula\TrabalhoMatricula\obj\Debug\net6.0\refint\TrabalhoMatricula.dll
+G:\My Drive\Senac\Trabalhos\TrabalhoMatricula\TrabalhoMatricula\obj\Debug\net6.0\TrabalhoMatricula.pdb
+G:\My Drive\Senac\Trabalhos\TrabalhoMatricula\TrabalhoMatricula\obj\Debug\net6.0\TrabalhoMatricula.genruntimeconfig.cache
+G:\My Drive\Senac\Trabalhos\TrabalhoMatricula\TrabalhoMatricula\obj\Debug\net6.0\ref\TrabalhoMatricula.dll
